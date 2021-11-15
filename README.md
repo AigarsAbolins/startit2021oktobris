@@ -2,3 +2,5 @@
 - kā lietot GitHub
 - Kā lietot GitHub Desktop
 - Kā lietot Vs kodu
+## Git komandas
+- git add .
