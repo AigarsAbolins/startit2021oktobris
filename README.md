@@ -1,1 +1,3 @@
-# startit20210ktobris
+# OKTOBRA MĀCĪBU PIEMĒRI
+- kā lietot GitHub
+- Kā lietot GitHub Desktop
